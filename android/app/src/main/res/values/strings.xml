@@ -1,0 +1,8 @@
+<resources>
+    <string name="facebook_app_id">505475079097625</string>
+    <string name="facebook_client_token">afcb81596ab0ef5828375e329642da72</string>
+    <string name="fb_login_protocol_scheme">fb505475079097625</string>
+    <string name="app_name">"Tracker App"</string>
+    
+
+</resources>
